@@ -6,5 +6,5 @@ Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
-<h1> Link do site: https://restaurante-pe-na-jaca.vercel.app/ </h1>
+  Link do site: https://restaurante-pe-na-jaca.vercel.app/ 
 
